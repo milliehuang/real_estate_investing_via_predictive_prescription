@@ -1,0 +1,2 @@
+# real_estate_investing_via_predictive_prescription
+Automated real estate investing optimizer using predictive prescription
